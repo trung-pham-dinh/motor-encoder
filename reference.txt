@@ -1,1 +1,5 @@
-https://hshop.vn/products/dong-co-dc-servo-jgy371-high-torque-self-lock-dc-geared-motor
+Motor details: 
+  https://hshop.vn/products/dong-co-dc-servo-jgy371-high-torque-self-lock-dc-geared-motor
+Encoder algorithm: 
+  https://github.com/PaulStoffregen/Encoder/blob/master/Encoder.h
+  https://www.best-microcontroller-projects.com/rotary-encoder.html
